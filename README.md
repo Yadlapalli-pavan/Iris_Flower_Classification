@@ -44,3 +44,5 @@ The project uses the Iris Dataset, which is one of the most well-known datasets 
       Recall
       
       F1-score
+
+![image alt](https://github.com/Yadlapalli-pavan/CODSOFT_3./blob/7598953b12f4754164ce8674b25de7c3a34d39c3/iris_data_set_screnshots.png)
